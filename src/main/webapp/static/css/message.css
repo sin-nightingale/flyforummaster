@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+}
+.main_box{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(#e66465, #9198e5);
+}
+.submit_box{
+    margin: auto;
+    width: 70%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    font-size: 4em;
+    color: aliceblue;
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+}
+.area_box{
+    width: auto;
+    display: flex;
+    justify-content: center;
+
+}
+.area{
+    width: 900px;
+    height: 400px;
+    border-radius: 20px;
+    font-size: 1.5em;
+
+}
+.user_name{
+    font-size: 2em;
+    color: azure;
+}
+.submit{
+    width: 70%;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #e66465;
+    color: azure;
+    font-size: 2em;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content_box{
+    width: 85%;
+    margin: auto;
+    height: auto;
+}
+.item{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    margin: 8px 0px 8px 0px;
+    background-color: #9198e5;
+    padding: 10px 10px 10px 30px;
+}
+
+.user_box{
+    color: azure;
+    font-size: 1.5em;
+
+}
+.content{
+    color: azure;
+    font-size: 1.5em;
+}
+.time_box{
+    color: dimgray;
+    font-size: 0.8em;
+}
+.delete{
+    text-decoration: none;
+    color: azure;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.delete:hover{
+    color: blue;
+}

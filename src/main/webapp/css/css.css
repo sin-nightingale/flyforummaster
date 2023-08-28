@@ -1,0 +1,206 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background-color: #e0e0e0;;
+    position:relative;
+
+}
+.background-img{
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background-color: #e0e0e0;;
+    position:relative;
+
+}
+#border {
+    border-radius: 10px 10px 10px 10px;
+
+}
+.font{
+    font-size: 18px;
+    color: #111;
+    line-height: 1;
+    font-family: PingFangSC-Medium,"Microsoft YaHei",SimSun,Tahoma,Verdana,Arial,sans-serif;
+}
+.form_wrap{
+    position: relative;
+    width: 300px;
+
+    padding: 5px 5px 5px 13px;
+    line-height: 28px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    color: #333;
+    display: inline-block;
+    vertical-align: middle;
+}
+.header_01{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 300px;
+    height: 50px;
+    margin-top: 34px;
+    margin-left: 44px;
+    white-space: nowrap;
+}
+.login-image{
+    position:absolute;
+    top: 110px;
+
+    left: 1000px;
+
+    width: 400px;
+    height: 400px;
+    background-color: #ffffff;
+    filter: opacity(0.95);
+
+}
+
+
+.login_{
+    width: 320px;
+    height: 230px;
+    padding-left: 30px;
+
+}
+.login_font{
+    width: 320px;
+    height: 50px;
+}
+.form_btn {
+    background-color: #FF9A14;
+}
+#form_btn_disabled {
+    width: 300px;
+    height: 42px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    clear: both;
+}
+
+.agreement-list {
+    margin-top: 5px;
+
+    color: #999;
+    line-height: 12px;
+    text-align: center;
+
+
+}
+a {
+    color: #666;
+    text-decoration: none;
+    outline: 0;
+    font-size: 10px;
+}
+
+.sp{
+    color: #666;
+    text-decoration: none;
+    outline: 0;
+    font-size: 10px;
+}
+
+.login-set {
+
+    margin: 8px 0 13px;
+}
+
+.font_st{
+    font: 12px/1.5 PingFangSC-Regular,"Microsoft YaHei",SimSun,Tahoma,Verdana,Arial,sans-serif;
+    line-height: 1.5;
+    color: #666;
+}
+.agress-list{
+    width: 300px;
+    height: 20px;
+    margin: auto;
+}
+
+
+
+
+
+.login-image h3{
+    font-family: PingFang-SC-Regular, Helvetica, "Microsoft Yahei", "微软雅黑";
+    letter-spacing: 4px;
+    font-weight: 300;
+    font-size: 36px;
+    color: #000;
+    padding-bottom: 10px;
+    padding-left:10px;
+}
+
+.word-art{
+    position:absolute;
+    left: 195px;
+    top: 314px;
+    float: left;
+}
+
+.word-art h3 {
+    font-family: PingFang-SC-Regular, Helvetica, "Microsoft Yahei", "微软雅黑";
+    font-size: 54px;
+    letter-spacing: 0;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.word-art p {
+    font-family: PingFang-SC-Regular,Helvetica,"Microsoft Yahei","微软雅黑";
+    font-size: 32px;
+    letter-spacing: 4px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.regist{
+
+    margin-left: 289px;
+
+
+
+}
+#ri{
+    color: #3882E5;
+
+}
+
+
+
+
+.tit .errorMsg {
+    float: right;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: red;
+}
+.re_background{
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    position: relative;
+
+}
+
+.form{
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    margin-left: 500px;
+    top: 0%;
+
+}
